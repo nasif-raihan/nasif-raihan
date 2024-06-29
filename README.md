@@ -63,9 +63,9 @@
 
 ### ✨ GitHub Stats:
 <div align="center">
-  <a href="https://github.com/nasif-raihan">
+<!--   <a href="https://github.com/nasif-raihan">
     <img src="https://github-readme-stats.vercel.app/api?username=nasif-raihan&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Nasif's GitHub stats" height="150"/>
-  </a>
+  </a> -->
   <a href="https://github.com/nasif-raihan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasif-raihan&theme=merko&hide_border=true" alt="Nasif's GitHub streak" height="150"/>
   </a>
