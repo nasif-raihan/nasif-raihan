@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nasif Raihan</h1>
-<h3 align="center">A passionate software developer from Bangladesh interested in AI and machine learning.</h3>
+<p align="center">A passionate software developer from Bangladesh interested in AI and machine learning.</p>
 
-- 🔭 I’m currently working on [Document-Management-Tool](https://github.com/nasif-raihan/Document-Management-Tool)
+<!-- - 🔭 I’m currently working on [Document-Management-Tool](https://github.com/nasif-raihan/Document-Management-Tool)
 - 🌱 I’m currently learning **Nuxt**
 - 💬 Ask me about **Django**
-- 📫 Reach me at **nasif.raihan78@gmail.com**
+- 📫 Reach me at **nasif.raihan78@gmail.com** -->
 
 ### 💻 Tech Stack:
 
