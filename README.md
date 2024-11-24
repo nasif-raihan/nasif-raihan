@@ -74,8 +74,12 @@
 </div>
 
 ---
+<div align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?style=for-the-badge&id=nasif-raihan&icon=5&color=3" alt="Profile Views"/></a>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/nasif-raihan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=nasif-raihan&icon=5&color=3" alt="Profile Views"/></a>
+  <a href="https://leetcode.com/nasif_raihan"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/neemoo"><img src="https://img.shields.io/badge/Codeforces-%23FFFFFF.svg?logo=codeforces&logoColor=%230075C9" alt="Codeforces"/></a>
 </div>
